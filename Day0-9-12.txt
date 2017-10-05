@@ -1,0 +1,1 @@
+Day	Strain	Rep.	Concentration	CFUs0	WT	1	-5	15050	WT	2	-5	18520	WT	1	-6	2580	WT	2	-6	2750	WT	1	-7	240	WT	2	-7	500	spoA	1	-5	11400	spoA	2	-5	14000	spoA	1	-6	3980	spoA	2	-6	2920	spoA	1	-7	330	spoA	2	-7	32
