@@ -7,7 +7,7 @@ import matplotlib.pyplot as plt
 mydir = os.path.expanduser("~/GitHub/Task2_Competition/")
 
 def plot_data():
-    df = pd.read_csv(mydir + 'data/2017-11-14-count.txt', sep = '\t')
+    df = pd.read_csv(mydir + 'data/2017-11-29-count.txt', sep = '\t')
     rows_to_keep = []
     for index, row in df.iterrows():
         wt = row['WT']
